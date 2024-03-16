@@ -21,3 +21,4 @@ ao escolher a banda desejada
 
 ![Captura de tela 2024-03-16 135130](https://github.com/Isaacovski/ScreenSoundc-/assets/116040541/7b9665c2-b09c-46f1-ac0d-982e69a96e89)
 apos escolher a banda desejada ele diz que foi adcionada com sucesso
+apneas um teste e em breve vai receber melhorias tanto na apresentacao quanto no projeto
